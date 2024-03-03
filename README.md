@@ -1,1 +1,1 @@
-# Deep-Learning-Proejct
+# Deep-Learning-Project
